@@ -6,6 +6,7 @@ metadata
 
 cookbook 'java', '~> 1.39.0'
 cookbook 'scala', '~> 2.1.0'
+cookbook 'apt', '~> 2.6.0'
 
 cookbook 'kagent', github: "karamelchef/kagent-chef", branch: "master"
 cookbook 'apache_hadoop', github: "hopshadoop/apache-hadoop-chef", branch: "master"
